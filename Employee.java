@@ -8,6 +8,7 @@ class Employee{
 		int b = 25;
 		System.out.println(a-b);
 	}
+	
 	public void sum(){
 		int a = 10;
 		int b = 20;
@@ -15,4 +16,9 @@ class Employee{
 
 	}
 
+	public void mul(){
+		int a = 5;
+		int b = 25;
+		System.out.println(a*b);
+	}
 }
