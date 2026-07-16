@@ -3,10 +3,10 @@ public class Employee {
         System.out.print("Hello....git");
     }
 
-    public void sum(){
+    public void sub(){
         int a = 10;
         int b = 15;
-        System.out.println(a+b);
+        System.out.println(a-b);
     }
 
 }
