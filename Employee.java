@@ -9,4 +9,10 @@ public class Employee {
         System.out.println(a-b);
     }
 
+    public void mul(){
+        int a = 10;
+        int b = 15;
+        System.out.println(a*b);
+    }
+
 }
