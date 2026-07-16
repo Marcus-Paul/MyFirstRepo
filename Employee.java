@@ -15,4 +15,10 @@ public class Employee {
         System.out.println(a*b);
     }
 
+    public void div(){
+        int a = 10;
+        int b = 15;
+        System.out.println(a/b);
+    }
+
 }
